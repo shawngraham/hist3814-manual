@@ -1,8 +1,8 @@
-# Rubric and Assessment
+# ☞ Rubric and Assessment
 
 By the end of this course, you should be able to do the following:
 
-1. Understand how to use the idea of '[the productive fail](/productivefail)' to use computing power effectively as an historian;
+1. Understand how to use the idea of '[the productive fail](https://electricarchaeology.ca/2017/03/14/failing-productively-in-digital-archaeology/)' to use computing power effectively as an historian;
 2. Understand, plan, and employ concepts of computational reproducibility in the service of history
 3. Employ web tools to build history in public, collegially
 4. Weigh the evidence appropriately, understanding how it was created, in order to communicate the compelling story
@@ -134,6 +134,3 @@ These modules are built around the following ideas:
 - Model best practices in open access data management as mandated by SSHRC and other research agencies
 - Develop an online scholarly voice to contribute data and reflection to the wider digital history community
 
-### ☞ Next
-
-Make sure you've taken a glance at the [Final Project detailed instructions](/finalproject), then let's get your computer [set up](/machinesetup).

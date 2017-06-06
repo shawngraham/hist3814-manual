@@ -1,4 +1,4 @@
-# Course Philosophy
+# ☞ Course Philosophy
 
 Increasingly, numerous historical documents making massive amounts of data are being put online. But, once that material is online, we face a question of ‘so what?’ This course will give you the digital research and data management skills and reflexive theoretical grounding to answer the ‘so what’. As digital historian Adam Crymble writes, ‘We’ve spent millions digitizing the world’s historical resources. Let’s work together to figure out what they can teach us’.
 
@@ -22,7 +22,7 @@ This course is not easy. It has no multiple choice tests, no assignments that yo
 
 If this sounds like you, or someone you are willing to become, then you will be ok. Now that you’ve got this far, please make sure to complete the ‘[pre class questionnaire](/questionnaire)’. Now, read on...
 
-# On Craftiness
+# ☞ On Craftiness
 
 <img src="/images/inspiration.png" style="PADDING-RIGHT: 5px"align="left">Great art comes from inspiration. Technical skill, yes of course. But 'inspiration' - the divine breath. Science? Science requires hard work and graft. Careful observation, attention to detail, replication, routine and method. Carefully record everything, and someone else could (should be able to) replicate it. Yes, there is insight and eureka moments, but we can agree that art and science are at different points along the continuum. So what of craft? I know a man who is astonishingly good at wood working. He will stand there, quietly, while he contemplates a piece of wood. Then, without a word, he begins to work with it. He sees the grain, and can feel how the piece is going to go. The materials can be guided, but they push him as much as he pushes them. The resulting piece can be typed - 'Oh, you make a shaker-style chair' - but, in its own quiet way, it is unique.
 
@@ -57,7 +57,3 @@ All historians - all _good_ historians - score well on that rubric. Digital Hist
 5. Self-reflection - added to MccDaniel's ideas about self-reflection, the digital historian enjoys a Red-Queen relationship with technology: they have to run faster and faster just to stay in the same place. Technology changes rapidly. Being reflective about digital technology also means reflecting on what one knows and what one does not, and taking active steps to identify and learn whatever technology (and supporting theory) required by the historical question. Thus, the digital historian also engages with current debates about technology's role in the world through their practice.
 
 The lessons, exercises, and activities in this course are all mapped against these characteristics of being a good digital historian.
-
-### ☞ Next
-
-Let's take a look at the [rubric and assessment and assignments](/rubric) right now.

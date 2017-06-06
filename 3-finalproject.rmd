@@ -1,11 +1,11 @@
-# Final Project
+# ☞ Final Project
 
 Your final project is to craft an original work of digital history. That is:
 
 + You will demonstrate via your project, satisfacory competence and understanding of the five modules in this course
 _ie, you conceive, create, document, a work of digital history that_ visualizes _some argument about the past from a the dataset I have given you._
 
-The actual _form_ of the project is up to you: but the key element is that the form you select should follow the function. Some kinds of analyses are better suited to the visual stylings of an infographic; others would be best explicated using a kind of long-form mixture of text and visuals; still others might be best represented via an interactive map or a hand-held locative app.
+The actual _form_ of the project is up to you: but the key element is that the form you select should follow the function. Some kinds of analyses are better suited to the visual stylings of an infographic; others would be best explicated using a kind of long-form mixture of text and visuals; still others might be best represented via an interactive map or a hand-held locative app.
 
 ## Data/Capta
 
