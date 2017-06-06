@@ -1,4 +1,4 @@
-# Setting up your machine
+# ☞ Setting up your machine
 
 If you are on a Mac or Linux machine, doing digital history is *materially* much easier, as many things can be done at the terminal. If you're on Linux, I probably don't have to say anything further.
 
